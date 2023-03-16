@@ -1,9 +1,22 @@
 /* your code */
+*{
+	margin: 0px;
+	padding: 0px;
+}
 .table{
-	width: 90vh;
-	
+	width: 550px;
+	height: 200px;
+	border: 0.1px solid black;
+	border-radius: 4px;
 	
 }
 .head{
-	backgroung-color:blue;
+	background-color:red;
+	margin : 0px;
+}
+.odd{
+	
+}
+.even{
+	
 }
